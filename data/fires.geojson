@@ -3,17 +3,7 @@
 "name": "fires",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "5.9", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.90981, 29.81021 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "l", "frp": "3.3", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.90524, 29.8625 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T09:00Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "h", "frp": "14.39", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.71739, 29.97412 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "2.06", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.86507, 30.13599 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "9.12", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.9022, 30.31972 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "2.1", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.91286, 29.79333 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T09:00Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "n", "frp": "11.84", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.95128, 29.81026 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T09:00Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "n", "frp": "10.99", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.95309, 29.81186 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T09:00Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "n", "frp": "16.89", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.94334, 29.85254 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T09:00Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "n", "frp": "11.77", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.94135, 29.85771 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "2.85", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 76.00864, 30.05109 ] } },
-{ "type": "Feature", "properties": { "acq_datetime": "2026-11-20T08:15Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "6.02", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.93758, 30.19203 ] } }
+{ "type": "Feature", "properties": { "acq_datetime": "2026-11-21T07:58Z", "satellite": "N20", "instrument": "VIIRS", "confidence": "n", "frp": "4.79", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.6741, 30.04893 ] } },
+{ "type": "Feature", "properties": { "acq_datetime": "2026-11-21T08:39Z", "satellite": "N21", "instrument": "VIIRS", "confidence": "n", "frp": "3.1", "daynight": "D" }, "geometry": { "type": "Point", "coordinates": [ 75.62456, 30.18039 ] } }
 ]
 }
